@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MarvelAPI</string>
+    <string name="lblBemVindo">Seja bem-vindo(a) à</string>
+    <string name="lblMarvelApi">MARVEL API</string>
+    <string name="btnPesquisarHerois">Pesquisar Heróis</string>
+    <string name="btnPesquisarCriadores">Pesquisar Criadores</string>
+    <string name="btnPesquisarQuadrinhos">Pesquisar Quadrinhos</string>
+
+    <string name="lblPesquisarHerois">Pesquisar Heróis</string>
+    <string name="lblDigitePesquisarHerois">Digite o nome do herói para ver suas informações</string>
+    <string name="txtNomeHeroi">Ex: Hulk</string>
+
+    <string name="lblPesquisarQuadrinhos">Pesquisar Quadrinhos</string>
+    <string name="lblDigitePesquisarQuadrinhos">Digite o nome do quadrinho para ver suas informações</string>
+    <string name="txtQuadrinhos">Ex: Amazing Fantasy</string>
+
+    <string name="lblPesquisarCriadores">Pesquisar Criadores</string>
+    <string name="lblDigitePesquisarCriadores">Digite o nome do criador para ver suas informações</string>
+    <string name="txtCriador">Ex: Stan Lee</string>
+
+    <string name="btnPesquisar">Pesquisar</string>
+</resources>
