@@ -1,22 +1,24 @@
 <resources>
-    <string name="app_name">MarvelAPI</string>
+    <string name="app_name">Anime API</string>
     <string name="lblBemVindo">Seja bem-vindo(a) à</string>
-    <string name="lblMarvelApi">MARVEL API</string>
-    <string name="btnPesquisarHerois">Pesquisar Heróis</string>
-    <string name="btnPesquisarCriadores">Pesquisar Criadores</string>
-    <string name="btnPesquisarQuadrinhos">Pesquisar Quadrinhos</string>
+    <string name="lblMarvelApi">API de Animes</string>
+    <string name="btnPesquisarHerois">Pesquisar Animes</string>
+    <string name="btnPesquisarQuadrinhos">Pesquisar Mangás</string>
 
-    <string name="lblPesquisarHerois">Pesquisar Heróis</string>
-    <string name="lblDigitePesquisarHerois">Digite o nome do herói para ver suas informações</string>
-    <string name="txtNomeHeroi">Ex: Hulk</string>
+    <string name="lblPesquisarHerois">Pesquisar Animes</string>
+    <string name="lblDigitePesquisarHerois">Digite o nome do anime para ver suas informações</string>
+    <string name="txtNomeHeroi">Ex: Naruto</string>
 
-    <string name="lblPesquisarQuadrinhos">Pesquisar Quadrinhos</string>
-    <string name="lblDigitePesquisarQuadrinhos">Digite o nome do quadrinho para ver suas informações</string>
-    <string name="txtQuadrinhos">Ex: Amazing Fantasy</string>
+    <string name="carregando">Carregando...</string>
+    <string name="sem_termodebusca">Informe um termo de busca</string>
+    <string name="sem_internet">Sem internet!</string>
+    <string name="sem_resultados">Sem resultados</string>
+    <string name="mais_informacoes">Botão "Mais Informações" habilitado!</string>
 
-    <string name="lblPesquisarCriadores">Pesquisar Criadores</string>
-    <string name="lblDigitePesquisarCriadores">Digite o nome do criador para ver suas informações</string>
-    <string name="txtCriador">Ex: Stan Lee</string>
+    <string name="lblPesquisarQuadrinhos">Pesquisar Mangás</string>
+    <string name="lblDigitePesquisarQuadrinhos">Digite o nome do mangá para ver suas informações</string>
+    <string name="txtQuadrinhos">Ex: Bleach</string>
 
     <string name="btnPesquisar">Pesquisar</string>
+    <string name="btnVoltar">Mais informações</string>
 </resources>

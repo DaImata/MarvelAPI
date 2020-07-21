@@ -13,18 +13,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        setTitle("Marvel API");
+        setTitle("API de Animes");
     }
-    public void Herois (View view){
-        Intent intentHerois = new Intent (MainActivity.this, Herois.class);
-        startActivity(intentHerois);
+    public void Animes (View view){
+        Intent intentAnimes = new Intent (MainActivity.this, Animes.class);
+        startActivity(intentAnimes);
     }
-    public void Quadrinhos (View view){
-        Intent intentQuadrinhos = new Intent (MainActivity.this, Quadrinhos.class);
-        startActivity(intentQuadrinhos);
-    }
-    public void Criadores (View view){
-        Intent intentCriadores = new Intent (MainActivity.this, Criadores.class);
-        startActivity(intentCriadores);
+    public void Mangas (View view){
+        Intent intentMangas = new Intent (MainActivity.this, Mangas.class);
+        startActivity(intentMangas);
     }
 }
